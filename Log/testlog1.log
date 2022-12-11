@@ -72,3 +72,43 @@
 2022-12-08 21:23:18,552 [main] INFO Freshii - Started defaultAddressTest
 2022-12-09 21:44:38,806 [main] DEBUG Freshii - Debug logging has started 
 2022-12-09 21:44:41,537 [main] INFO Freshii - Started defaultAddressTest
+2022-12-11 10:28:06,515 [main] DEBUG Freshii - Debug logging has started 
+2022-12-11 10:28:09,048 [main] INFO Freshii - Started defaultAddressTest
+2022-12-11 10:30:50,148 [main] DEBUG Freshii - Debug logging has started 
+2022-12-11 10:30:51,328 [main] INFO Freshii - Started defaultAddressTest
+2022-12-11 10:43:02,946 [main] DEBUG Freshii - Debug logging has started 
+2022-12-11 10:43:04,121 [main] INFO Freshii - Started defaultAddressTest
+2022-12-11 11:06:22,536 [main] DEBUG Freshii - Debug logging has started 
+2022-12-11 11:06:23,699 [main] INFO Freshii - Started defaultAddressTest
+2022-12-11 11:31:09,377 [main] DEBUG Freshii - Debug logging has started 
+2022-12-11 11:31:10,877 [main] INFO com.utilities.Log - defaultAddressTest test is starting.
+2022-12-11 11:31:10,878 [main] INFO Freshii - Started defaultAddressTest
+2022-12-11 11:31:12,109 [main] INFO com.utilities.Log - defaultAddressTest test is failed.
+2022-12-11 11:31:12,110 [main] INFO com.utilities.Log - defaultAddressTest test is failed.
+2022-12-11 11:31:12,858 [main] INFO com.utilities.Log - I am in onFinish method TestNGTest1
+2022-12-11 11:33:43,336 [main] DEBUG Freshii - Debug logging has started 
+2022-12-11 11:33:44,508 [main] INFO com.utilities.Log - defaultAddressTest test is starting.
+2022-12-11 11:33:44,509 [main] INFO Freshii - Started defaultAddressTest
+2022-12-11 11:33:45,735 [main] INFO com.utilities.Log - defaultAddressTest test is failed.
+2022-12-11 11:33:45,737 [main] INFO com.utilities.Log - defaultAddressTest test is failed.
+2022-12-11 11:33:46,455 [main] INFO com.utilities.Log - I am in onFinish method TestNGTest1
+2022-12-11 11:34:56,983 [main] DEBUG Freshii - Debug logging has started 
+2022-12-11 11:34:58,949 [main] INFO com.utilities.Log - defaultAddressTest test is starting.
+2022-12-11 11:34:58,952 [main] INFO Freshii - Started defaultAddressTest
+2022-12-11 11:35:00,304 [main] INFO com.utilities.Log - defaultAddressTest test is failed.
+2022-12-11 11:35:00,305 [main] INFO com.utilities.Log - defaultAddressTest test is failed.
+2022-12-11 11:35:01,021 [main] INFO com.utilities.Log - I am in onFinish method TestNGTest1
+2022-12-11 11:36:33,441 [main] DEBUG Freshii - Debug logging has started 
+2022-12-11 11:36:34,619 [main] INFO com.utilities.Log - defaultAddressTest test is starting.
+2022-12-11 11:36:34,621 [main] INFO Freshii - Started defaultAddressTest
+2022-12-11 11:36:35,895 [main] INFO com.utilities.Log - defaultAddressTest test is failed.
+2022-12-11 11:36:36,546 [main] INFO com.utilities.Log - defaultAddressTest test is failed.
+2022-12-11 11:36:37,487 [main] INFO com.utilities.Log - I am in onFinish method TestNGTest1
+2022-12-11 12:17:06,187 [main] DEBUG Freshii - Debug logging has started 
+2022-12-11 12:17:08,027 [main] INFO Freshii - Started defaultAddressTest
+2022-12-11 12:19:59,774 [main] DEBUG Freshii - Debug logging has started 
+2022-12-11 12:20:01,129 [main] INFO Freshii - Started defaultAddressTest
+2022-12-11 12:25:06,011 [main] DEBUG Freshii - Debug logging has started 
+2022-12-11 12:25:09,097 [main] INFO Freshii - Started defaultAddressTest
+2022-12-11 12:29:09,704 [main] DEBUG Freshii - Debug logging has started 
+2022-12-11 12:29:10,966 [main] INFO Freshii - Started defaultAddressTest
