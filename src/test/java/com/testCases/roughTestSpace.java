@@ -10,7 +10,7 @@ import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
 
-public class testt extends BaseClass {
+public class roughTestSpace extends BaseClass {
 
 
     @Test(priority = 1)
