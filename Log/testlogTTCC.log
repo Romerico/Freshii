@@ -1,2 +1,334 @@
 2022-12-16 16:56:34,007 [main] DEBUG Freshii - Debug logging has started 
 2022-12-16 16:56:35,321 [main] INFO Freshii - Started defaultAddressTest
+2022-12-20 18:58:56,620 [main] DEBUG Freshii - Debug logging has started 
+2022-12-20 18:58:57,796 [main] INFO Freshii - Started FWA_090
+2022-12-20 19:59:25,792 [main] DEBUG Freshii - Debug logging has started 
+2022-12-20 19:59:27,015 [main] INFO Freshii - Started FWA_090
+2022-12-20 20:00:39,350 [main] DEBUG Freshii - Debug logging has started 
+2022-12-20 20:00:40,490 [main] INFO Freshii - Started FWA_090
+2022-12-20 20:02:11,281 [main] DEBUG Freshii - Debug logging has started 
+2022-12-20 20:02:12,443 [main] INFO Freshii - Started FWA_090
+2022-12-20 20:04:28,803 [main] DEBUG Freshii - Debug logging has started 
+2022-12-20 20:04:29,977 [main] INFO Freshii - Started FWA_090
+2022-12-20 20:06:07,147 [main] DEBUG Freshii - Debug logging has started 
+2022-12-20 20:06:08,267 [main] INFO Freshii - Started FWA_090
+2022-12-20 20:07:19,187 [main] DEBUG Freshii - Debug logging has started 
+2022-12-20 20:07:20,371 [main] INFO Freshii - Started FWA_090
+2022-12-20 23:05:26,124 [main] DEBUG Freshii - Debug logging has started 
+2022-12-20 23:05:27,405 [main] INFO Freshii - Started FWA_090
+2022-12-20 23:05:49,790 [main] DEBUG Freshii - Debug logging has started 
+2022-12-20 23:05:50,872 [main] INFO Freshii - Started FWA_090
+2022-12-20 23:20:52,176 [main] DEBUG Freshii - Debug logging has started 
+2022-12-20 23:20:53,523 [main] INFO Freshii - Started FWA_090
+2022-12-20 23:24:22,632 [main] DEBUG Freshii - Debug logging has started 
+2022-12-20 23:24:23,744 [main] INFO Freshii - Started FWA_090
+2022-12-20 23:37:45,801 [main] DEBUG Freshii - Debug logging has started 
+2022-12-20 23:37:46,963 [main] INFO Freshii - Started FWA_090
+2022-12-20 23:37:49,957 [main] INFO Freshii - Completed defaultAddressTest
+2022-12-20 23:44:02,728 [main] DEBUG Freshii - Debug logging has started 
+2022-12-20 23:44:03,843 [main] INFO Freshii - Started FWA_090
+2022-12-20 23:45:37,697 [main] DEBUG Freshii - Debug logging has started 
+2022-12-20 23:45:38,865 [main] INFO Freshii - Started FWA_090
+2022-12-20 23:45:42,584 [main] INFO Freshii - Completed defaultAddressTest
+2022-12-20 23:49:43,320 [main] DEBUG Freshii - Debug logging has started 
+2022-12-20 23:49:44,418 [main] INFO Freshii - Started FWA_090
+2022-12-20 23:49:46,304 [main] INFO Freshii - zipcode is accepted
+2022-12-20 23:49:47,416 [main] INFO Freshii - landed on login page
+2022-12-20 23:49:58,047 [main] INFO Freshii - Completed FWA_090
+2022-12-21 10:59:21,876 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 10:59:23,071 [main] INFO Freshii - Started FWA_090
+2022-12-21 10:59:56,780 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 10:59:57,948 [main] INFO Freshii - Started FWA_090
+2022-12-21 10:59:59,994 [main] INFO Freshii - zipcode is accepted
+2022-12-21 11:09:56,675 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 11:09:57,884 [main] INFO Freshii - Started FWA_090
+2022-12-21 11:09:59,868 [main] INFO Freshii - zipcode is accepted
+2022-12-21 11:10:09,478 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 11:10:10,591 [main] INFO Freshii - Started FWA_090
+2022-12-21 11:10:12,392 [main] INFO Freshii - zipcode is accepted
+2022-12-21 11:10:13,322 [main] INFO Freshii - landed on login page
+2022-12-21 11:10:13,933 [main] INFO Freshii - Completed FWA_090
+2022-12-21 13:09:33,630 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 13:09:34,809 [main] INFO Freshii - Started FWA_090
+2022-12-21 13:09:36,973 [main] INFO Freshii - zipcode is accepted
+2022-12-21 13:09:38,089 [main] INFO Freshii - landed on login page
+2022-12-21 13:09:38,713 [main] INFO Freshii - authorized the google account
+2022-12-21 13:10:38,957 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 13:10:40,115 [main] INFO Freshii - Started FWA_090
+2022-12-21 13:12:23,553 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 13:12:24,706 [main] INFO Freshii - Started FWA_090
+2022-12-21 13:12:26,705 [main] INFO Freshii - zipcode is accepted
+2022-12-21 13:12:27,705 [main] INFO Freshii - landed on login page
+2022-12-21 13:12:28,403 [main] INFO Freshii - authorized the google account
+2022-12-21 13:14:14,458 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 13:14:15,985 [main] INFO Freshii - Started FWA_090
+2022-12-21 13:14:18,061 [main] INFO Freshii - zipcode is accepted
+2022-12-21 13:14:19,045 [main] INFO Freshii - landed on login page
+2022-12-21 13:14:19,690 [main] INFO Freshii - authorized the google account
+2022-12-21 13:15:27,210 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 13:15:28,401 [main] INFO Freshii - Started FWA_090
+2022-12-21 13:15:30,431 [main] INFO Freshii - zipcode is accepted
+2022-12-21 13:15:56,210 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 13:15:57,344 [main] INFO Freshii - Started FWA_090
+2022-12-21 13:15:59,253 [main] INFO Freshii - zipcode is accepted
+2022-12-21 13:16:00,426 [main] INFO Freshii - landed on login page
+2022-12-21 13:16:01,096 [main] INFO Freshii - authorized the google account
+2022-12-21 13:16:44,568 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 13:16:45,655 [main] INFO Freshii - Started FWA_090
+2022-12-21 13:16:47,755 [main] INFO Freshii - zipcode is accepted
+2022-12-21 13:16:48,797 [main] INFO Freshii - landed on login page
+2022-12-21 13:16:49,997 [main] INFO Freshii - authorized the google account
+2022-12-21 13:17:00,012 [main] INFO Freshii - Completed FWA_090
+2022-12-21 13:24:16,259 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 13:24:17,932 [main] INFO Freshii - Started FWA_090
+2022-12-21 13:24:19,989 [main] INFO Freshii - zipcode is accepted
+2022-12-21 13:28:22,490 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 13:28:24,052 [main] INFO Freshii - Started FWA_090
+2022-12-21 13:28:26,001 [main] INFO Freshii - zipcode is accepted
+2022-12-21 13:28:27,011 [main] INFO Freshii - landed on login page
+2022-12-21 13:28:27,651 [main] INFO Freshii - authorized the google account
+2022-12-21 13:28:37,663 [main] INFO Freshii - Completed FWA_090
+2022-12-21 14:56:35,115 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 14:56:36,225 [main] INFO Freshii - Started FWA_090
+2022-12-21 14:56:38,344 [main] INFO Freshii - zipcode is accepted
+2022-12-21 14:56:39,445 [main] INFO Freshii - landed on login page
+2022-12-21 14:56:59,544 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 14:57:00,627 [main] INFO Freshii - Started FWA_090
+2022-12-21 14:57:02,622 [main] INFO Freshii - zipcode is accepted
+2022-12-21 14:57:03,525 [main] INFO Freshii - landed on login page
+2022-12-21 14:57:04,176 [main] INFO Freshii - authorized the google account
+2022-12-21 14:57:14,188 [main] INFO Freshii - Completed FWA_090
+2022-12-21 15:00:12,618 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 15:00:13,722 [main] INFO Freshii - Started FWA_090
+2022-12-21 15:00:15,875 [main] INFO Freshii - zipcode is accepted
+2022-12-21 15:00:16,893 [main] INFO Freshii - landed on login page
+2022-12-21 15:00:17,531 [main] INFO Freshii - authorized the google account
+2022-12-21 15:00:27,533 [main] INFO Freshii - Completed FWA_090
+2022-12-21 15:05:33,205 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 15:09:40,733 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 15:09:41,899 [main] INFO Freshii - Started FWA_090
+2022-12-21 15:09:43,973 [main] INFO Freshii - zipcode is accepted
+2022-12-21 15:09:44,994 [main] INFO Freshii - landed on login page
+2022-12-21 15:09:45,649 [main] INFO Freshii - authorized the google account
+2022-12-21 15:09:55,651 [main] INFO Freshii - Completed FWA_090
+2022-12-21 15:13:19,236 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 15:13:20,348 [main] INFO Freshii - Started FWA_090
+2022-12-21 15:13:22,419 [main] INFO Freshii - zipcode is accepted
+2022-12-21 15:13:23,491 [main] INFO Freshii - landed on login page
+2022-12-21 15:14:23,146 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 15:14:24,298 [main] INFO Freshii - Started FWA_090
+2022-12-21 15:14:26,254 [main] INFO Freshii - zipcode is accepted
+2022-12-21 15:14:27,300 [main] INFO Freshii - landed on login page
+2022-12-21 15:15:22,792 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 15:15:24,174 [main] INFO Freshii - Started FWA_090
+2022-12-21 15:15:26,102 [main] INFO Freshii - zipcode is accepted
+2022-12-21 15:15:27,126 [main] INFO Freshii - landed on login page
+2022-12-21 15:17:00,751 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 15:17:01,907 [main] INFO Freshii - Started FWA_090
+2022-12-21 15:17:03,826 [main] INFO Freshii - zipcode is accepted
+2022-12-21 15:17:04,819 [main] INFO Freshii - landed on login page
+2022-12-21 15:30:35,512 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 15:30:36,753 [main] INFO Freshii - Started FWA_090
+2022-12-21 15:30:38,696 [main] INFO Freshii - zipcode is accepted
+2022-12-21 15:30:39,793 [main] INFO Freshii - landed on login page
+2022-12-21 15:31:09,040 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 15:31:10,040 [main] INFO Freshii - Started FWA_090
+2022-12-21 15:31:11,837 [main] INFO Freshii - zipcode is accepted
+2022-12-21 15:31:12,789 [main] INFO Freshii - landed on login page
+2022-12-21 15:34:04,707 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 15:34:05,926 [main] INFO Freshii - Started FWA_090
+2022-12-21 15:34:07,896 [main] INFO Freshii - zipcode is accepted
+2022-12-21 15:34:09,068 [main] INFO Freshii - landed on login page
+2022-12-21 15:35:17,350 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 15:35:18,460 [main] INFO Freshii - Started FWA_090
+2022-12-21 15:35:20,305 [main] INFO Freshii - zipcode is accepted
+2022-12-21 15:35:21,548 [main] INFO Freshii - landed on login page
+2022-12-21 15:40:37,027 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 15:40:38,122 [main] INFO Freshii - Started FWA_090
+2022-12-21 15:40:40,167 [main] INFO Freshii - zipcode is accepted
+2022-12-21 15:40:41,310 [main] INFO Freshii - landed on login page
+2022-12-21 15:44:51,930 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 15:44:53,175 [main] INFO Freshii - Started FWA_090
+2022-12-21 15:44:55,210 [main] INFO Freshii - zipcode is accepted
+2022-12-21 15:44:56,365 [main] INFO Freshii - landed on login page
+2022-12-21 15:49:51,587 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 15:49:52,828 [main] INFO Freshii - Started FWA_090
+2022-12-21 15:49:54,953 [main] INFO Freshii - zipcode is accepted
+2022-12-21 15:49:56,131 [main] INFO Freshii - landed on login page
+2022-12-21 15:50:00,606 [main] INFO Freshii - authorized the google account
+2022-12-21 15:50:10,617 [main] INFO Freshii - Completed FWA_090
+2022-12-21 15:51:57,881 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 15:51:59,180 [main] INFO Freshii - Started FWA_090
+2022-12-21 15:52:01,163 [main] INFO Freshii - zipcode is accepted
+2022-12-21 15:52:02,276 [main] INFO Freshii - landed on login page
+2022-12-21 15:52:43,770 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 15:52:45,092 [main] INFO Freshii - Started FWA_090
+2022-12-21 15:52:47,074 [main] INFO Freshii - zipcode is accepted
+2022-12-21 15:52:48,194 [main] INFO Freshii - landed on login page
+2022-12-21 15:52:52,458 [main] INFO Freshii - authorized the google account
+2022-12-21 15:53:02,473 [main] INFO Freshii - Completed FWA_090
+2022-12-21 18:38:43,167 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 18:38:44,422 [main] INFO Freshii - Started FWA_090_1
+2022-12-21 18:41:21,854 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 18:41:23,282 [main] INFO Freshii - Started FWA_090_3
+2022-12-21 18:41:25,448 [main] INFO Freshii - zipcode is accepted
+2022-12-21 18:41:26,573 [main] INFO Freshii - landed on login page
+2022-12-21 18:41:31,496 [main] INFO Freshii - authorized the google account
+2022-12-21 18:42:41,818 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 18:42:42,995 [main] INFO Freshii - Started FWA_090_3
+2022-12-21 18:42:45,042 [main] INFO Freshii - zipcode is accepted
+2022-12-21 18:42:46,059 [main] INFO Freshii - landed on login page
+2022-12-21 18:42:50,258 [main] INFO Freshii - authorized the google account
+2022-12-21 18:43:37,232 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 18:43:38,418 [main] INFO Freshii - Started FWA_090_2
+2022-12-21 18:43:40,571 [main] INFO Freshii - zipcode is accepted
+2022-12-21 18:43:41,539 [main] INFO Freshii - landed on login page
+2022-12-21 18:43:45,689 [main] INFO Freshii - authorized the google account
+2022-12-21 18:48:25,347 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 18:48:26,496 [main] INFO Freshii - Started FWA_090
+2022-12-21 18:48:28,453 [main] INFO Freshii - zipcode is accepted
+2022-12-21 18:48:29,592 [main] INFO Freshii - landed on login page
+2022-12-21 18:48:33,907 [main] INFO Freshii - authorized the google account
+2022-12-21 18:48:33,932 [main] INFO Freshii - Completed FWA_090
+2022-12-21 18:48:58,208 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 18:48:59,387 [main] INFO Freshii - Started FWA_090_1
+2022-12-21 18:49:01,386 [main] INFO Freshii - zipcode is accepted
+2022-12-21 18:49:02,398 [main] INFO Freshii - landed on login page
+2022-12-21 18:49:06,476 [main] INFO Freshii - authorized the google account
+2022-12-21 18:49:09,843 [main] INFO Freshii - there are options in the list
+2022-12-21 18:49:09,844 [main] INFO Freshii - Completed FWA_090_1
+2022-12-21 18:49:29,048 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 18:49:30,152 [main] INFO Freshii - Started FWA_090_2
+2022-12-21 18:49:32,213 [main] INFO Freshii - zipcode is accepted
+2022-12-21 18:49:33,251 [main] INFO Freshii - landed on login page
+2022-12-21 18:49:37,346 [main] INFO Freshii - authorized the google account
+2022-12-21 18:52:34,682 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 18:52:35,876 [main] INFO Freshii - Started FWA_090_2
+2022-12-21 18:52:37,871 [main] INFO Freshii - zipcode is accepted
+2022-12-21 18:52:38,918 [main] INFO Freshii - landed on login page
+2022-12-21 18:52:43,086 [main] INFO Freshii - authorized the google account
+2022-12-21 18:54:01,627 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 18:54:02,791 [main] INFO Freshii - Started FWA_090_2
+2022-12-21 18:54:04,832 [main] INFO Freshii - zipcode is accepted
+2022-12-21 18:54:06,035 [main] INFO Freshii - landed on login page
+2022-12-21 18:54:10,298 [main] INFO Freshii - authorized the google account
+2022-12-21 18:54:16,180 [main] INFO Freshii - Completed FWA_090_2
+2022-12-21 18:55:38,956 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 18:55:40,094 [main] INFO Freshii - Started FWA_090_3
+2022-12-21 18:55:41,690 [main] INFO Freshii - zipcode is accepted
+2022-12-21 18:55:42,757 [main] INFO Freshii - landed on login page
+2022-12-21 18:55:46,917 [main] INFO Freshii - authorized the google account
+2022-12-21 18:57:04,871 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 18:57:06,008 [main] INFO Freshii - Started FWA_090_3
+2022-12-21 18:57:08,009 [main] INFO Freshii - zipcode is accepted
+2022-12-21 18:57:09,103 [main] INFO Freshii - landed on login page
+2022-12-21 18:57:13,380 [main] INFO Freshii - authorized the google account
+2022-12-21 18:58:25,693 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 18:58:26,901 [main] INFO Freshii - Started FWA_090_3
+2022-12-21 18:58:28,944 [main] INFO Freshii - zipcode is accepted
+2022-12-21 18:58:29,993 [main] INFO Freshii - landed on login page
+2022-12-21 18:58:34,247 [main] INFO Freshii - authorized the google account
+2022-12-21 19:03:55,449 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 19:03:56,583 [main] INFO Freshii - Started FWA_090_3
+2022-12-21 19:03:58,585 [main] INFO Freshii - zipcode is accepted
+2022-12-21 19:03:59,681 [main] INFO Freshii - landed on login page
+2022-12-21 19:04:04,038 [main] INFO Freshii - authorized the google account
+2022-12-21 19:09:40,672 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 19:09:41,772 [main] INFO Freshii - Started FWA_090_3
+2022-12-21 19:09:43,743 [main] INFO Freshii - zipcode is accepted
+2022-12-21 19:09:44,793 [main] INFO Freshii - landed on login page
+2022-12-21 19:09:49,104 [main] INFO Freshii - authorized the google account
+2022-12-21 19:14:43,831 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 19:14:45,137 [main] INFO Freshii - Started FWA_090_3
+2022-12-21 19:14:47,199 [main] INFO Freshii - zipcode is accepted
+2022-12-21 19:14:48,224 [main] INFO Freshii - landed on login page
+2022-12-21 19:14:52,732 [main] INFO Freshii - authorized the google account
+2022-12-21 20:29:20,742 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 20:29:21,906 [main] INFO Freshii - Started FWA_090_4
+2022-12-21 20:29:23,972 [main] INFO Freshii - zipcode is accepted
+2022-12-21 20:29:25,136 [main] INFO Freshii - landed on login page
+2022-12-21 20:29:31,801 [main] INFO Freshii - authorized the google account
+2022-12-21 20:30:19,564 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 20:30:20,653 [main] INFO Freshii - Started FWA_090_4
+2022-12-21 20:30:22,666 [main] INFO Freshii - zipcode is accepted
+2022-12-21 20:31:00,584 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 20:31:01,755 [main] INFO Freshii - Started FWA_090_4
+2022-12-21 20:31:03,828 [main] INFO Freshii - zipcode is accepted
+2022-12-21 20:31:05,075 [main] INFO Freshii - landed on login page
+2022-12-21 20:31:09,218 [main] INFO Freshii - authorized the google account
+2022-12-21 20:31:15,133 [main] INFO Freshii - Lastname was : -
+2022-12-21 20:32:53,444 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 20:32:54,602 [main] INFO Freshii - Started FWA_090_4
+2022-12-21 20:32:56,687 [main] INFO Freshii - zipcode is accepted
+2022-12-21 20:33:05,196 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 20:33:06,808 [main] INFO Freshii - Started FWA_090_4
+2022-12-21 20:33:08,521 [main] INFO Freshii - zipcode is accepted
+2022-12-21 20:33:09,499 [main] INFO Freshii - landed on login page
+2022-12-21 20:33:13,559 [main] INFO Freshii - authorized the google account
+2022-12-21 20:33:21,932 [main] INFO Freshii - Lastname was : -udotA
+2022-12-21 21:08:37,430 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 21:09:47,285 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 21:09:51,442 [main] INFO Freshii - zipcode is accepted
+2022-12-21 21:12:22,298 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 21:12:25,470 [main] INFO Freshii - zipcode is accepted
+2022-12-21 21:13:13,517 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 21:13:16,683 [main] INFO Freshii - zipcode is accepted
+2022-12-21 21:14:16,732 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 21:14:20,241 [main] INFO Freshii - zipcode is accepted
+2022-12-21 21:19:15,392 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 21:19:18,661 [main] INFO Freshii - zipcode is accepted
+2022-12-21 21:19:21,775 [main] INFO Freshii - click order
+2022-12-21 21:19:23,021 [main] INFO Freshii - choose soup
+2022-12-21 21:19:26,110 [main] INFO Freshii - click plus
+2022-12-21 21:19:29,187 [main] INFO Freshii - amount of items after clicking plus is 2 as expected
+2022-12-21 21:20:13,071 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 21:20:16,495 [main] INFO Freshii - zipcode is accepted
+2022-12-21 21:20:19,601 [main] INFO Freshii - click order
+2022-12-21 21:20:22,759 [main] INFO Freshii - choose soup
+2022-12-21 21:20:25,869 [main] INFO Freshii - click plus
+2022-12-21 21:20:28,933 [main] INFO Freshii - amount of items after clicking plus is 2 as expected
+2022-12-21 21:21:00,326 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 21:21:01,720 [main] INFO Freshii - Started FWA_090_4
+2022-12-21 21:21:03,666 [main] INFO Freshii - zipcode is accepted
+2022-12-21 21:21:04,738 [main] INFO Freshii - landed on login page
+2022-12-21 21:21:09,844 [main] INFO Freshii - authorized the google account
+2022-12-21 21:21:15,737 [main] INFO Freshii - Lastname was : -udotADlAkQ
+2022-12-21 21:22:19,059 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 21:22:20,199 [main] INFO Freshii - Started FWA_090_4
+2022-12-21 21:22:22,211 [main] INFO Freshii - zipcode is accepted
+2022-12-21 21:22:23,456 [main] INFO Freshii - landed on login page
+2022-12-21 21:22:27,632 [main] INFO Freshii - authorized the google account
+2022-12-21 21:22:33,507 [main] INFO Freshii - Lastname was : -udotADlAkQHHIeB
+2022-12-21 22:57:06,425 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 22:57:07,973 [main] INFO Freshii - Started FWA_090_4
+2022-12-21 22:57:10,282 [main] INFO Freshii - zipcode is accepted
+2022-12-21 22:57:11,392 [main] INFO Freshii - landed on login page
+2022-12-21 22:57:16,338 [main] INFO Freshii - authorized the google account
+2022-12-21 22:57:22,132 [main] INFO Freshii - entered the account
+2022-12-21 22:57:22,728 [main] INFO Freshii - Lastname was : -udotADlAkQHHIeBEhwfP
+2022-12-21 22:57:33,051 [main] INFO Freshii - edited personal info
+2022-12-21 22:57:33,073 [main] INFO Freshii - Completed FWA_090_4
+2022-12-21 22:59:25,560 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 22:59:26,728 [main] INFO Freshii - Started FWA_090_4
+2022-12-21 22:59:28,873 [main] INFO Freshii - zipcode is accepted
+2022-12-21 22:59:30,003 [main] INFO Freshii - landed on login page
+2022-12-21 22:59:35,123 [main] INFO Freshii - authorized the google account
+2022-12-21 22:59:40,505 [main] INFO Freshii - entered the account
+2022-12-21 22:59:41,112 [main] INFO Freshii - Lastname was : -udotADlAkQHHIeBEhwfP
+2022-12-21 23:14:15,776 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 23:14:16,928 [main] INFO Freshii - Started FWA_090_4
+2022-12-21 23:14:19,144 [main] INFO Freshii - zipcode is accepted
+2022-12-21 23:14:20,230 [main] INFO Freshii - landed on login page
+2022-12-21 23:14:24,648 [main] INFO Freshii - authorized the google account
+2022-12-21 23:14:30,545 [main] INFO Freshii - entered the account
+2022-12-21 23:14:31,143 [main] INFO Freshii - Lastname was : -udotADlAkQHHIeBEhwfP
+2022-12-21 23:14:41,635 [main] INFO Freshii - edited personal info
+2022-12-21 23:19:23,016 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 23:19:24,134 [main] INFO Freshii - Started FWA_090_4
+2022-12-21 23:19:26,264 [main] INFO Freshii - zipcode is accepted
+2022-12-21 23:19:27,475 [main] INFO Freshii - landed on login page
+2022-12-21 23:19:31,695 [main] INFO Freshii - authorized the google account
+2022-12-21 23:19:36,924 [main] INFO Freshii - entered the account
+2022-12-21 23:19:37,525 [main] INFO Freshii - Lastname was : -d
+2022-12-21 23:27:37,244 [main] DEBUG Freshii - Debug logging has started 
+2022-12-21 23:27:39,097 [main] INFO Freshii - Started FWA_090
